@@ -1,156 +1,284 @@
-<h1 align="center">Hi 👋, I'm B Janardhan Biliya</h1>
-<h3 align="center">
-AI / ML Engineer · MLOps & Streaming Systems · Generative AI (LLMs) · Azure
-</h3>
+<!-- ================= ABOUT SECTION ================= -->
 
-<p align="center">
-I build <b>production-grade AI systems</b> — from real-time ML pipelines and MLOps workflows  
-to Agentic AI, RAG systems, and cloud-native deployments.
+<table width="100%">
+<tr>
+
+<td width="65%" style="border:5px solid #30363d;border-radius:10px;padding:28px;vertical-align:top;font-size:18px">
+
+<h2 align="center">👋 Hi, I'm Janardhan Biliya</h2>
+
+<p align="center"><b>AI / ML Engineer • Generative AI • MLOps • Real-Time ML Systems</b></p>
+
+<h3>Building Production-Grade AI Systems for Real-World Impact</h3>
+
+<p>
+An <b>AI/ML & MLOps Engineer</b> with <b>2+ years of hands-on experience</b> designing,
+deploying, and scaling intelligent systems in <b>production environments</b>.
 </p>
 
----
-
-## 🔍 About Me
-
-- 🎓 **BCA + MSc in Software Technology**
-- 🤖 AI/ML Engineer focused on **real-world, production-ready systems**
-- 🧠 Strong interest in **Generative AI, LLMs, Agentic AI, RAG**
-- ⚙️ Hands-on with **MLOps, Streaming (Kafka), Cloud (Azure), CI/CD**
-- 📊 Daily tools: **Python, Pandas, Scikit-learn, TensorFlow, PyTorch, SQL**
-
-> I don’t just train models — I **deploy, monitor, and scale them**.
-
----
-
-## 🚀 Featured Projects (Production-Focused)
-
-### 🧠 Research Copilot – Agentic AI Paper Fetcher & Analyzer  
-🔗 https://github.com/biliyajanardhan/research_copilot  
-
-- Built an **Agentic AI system** using FastAPI + RAG
-- MasterAgent orchestrates Research, Retrieval, and Reasoning
-- Real-time streaming responses using **Server-Sent Events (SSE)**
-- Integrated **Azure OpenAI, Azure Cognitive Search, Blob Storage**
-- Designed with **modular, scalable agent architecture**
-
-**Tech:** FastAPI · Agentic AI · RAG · Azure OpenAI · Azure Cognitive Search · SSE
-
----
-
-### 🚀 Kafka-Based Real-Time ML Inference Pipeline (Azure)  
-🔗 https://github.com/biliyajanardhan/azure-kafka-ml  
-
-- Designed a **real-time ML inference system** using Kafka on Azure Event Hubs
-- Producers stream transaction events
-- Consumers perform **online ML inference**
-- Predictions stored for downstream analytics
-- Built with **low-latency, scalability, and fault tolerance** in mind
-
-**Tech:** Apache Kafka · Azure Event Hubs · Python · Docker · Real-Time ML · MLOps
-
----
-
-### 🗣️ AI-Powered Virtual Assistant  
-🔗 https://github.com/biliyajanardhan/AI-Virtual-Assistant-  
-
-- Voice-enabled AI assistant using **LLaMA 3**
-- Speech-to-text & text-to-speech interaction
-- Streamlit-based interactive UI
-- Local LLM inference using Ollama
-
-**Tech:** LLaMA 3 · Streamlit · SpeechRecognition · pyttsx3 · Python
-
----
-
-### 🤖 AI Code Translator  
-🔗 https://github.com/biliyajanardhan/AI-Code-Assistant-.git  
-
-- Translates code between programming languages
-- Powered by **LLaMA models via Ollama**
-- Focused on developer productivity & explainability
-
-**Tech:** LLaMA · Ollama · Python · NLP
-
----
-
-### 💡 AI Code Assistant  
-🔗 https://github.com/biliyajanardhan/Code_translator_using_ollama.git  
-
-- Intelligent code suggestions and explanations
-- Designed for learning and rapid prototyping
-- Local LLM execution for privacy-friendly workflows
-
-**Tech:** Ollama · LLaMA · Python
-
----
-
-### 🧮 BMI Calculator (Flask)  
-🔗 https://github.com/biliyajanardhan/Flask-BMI-app.git  
-
-- Flask-based web app
-- Smart redirection based on age & BMI category
-- Clean backend logic and UI separation
-
-**Tech:** Flask · Python · HTML/CSS
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🧑‍💻 Languages
-Python · SQL · JavaScript · PHP · C · C++
-
-### 🧠 ML & AI
-Scikit-learn · TensorFlow · PyTorch · NLP · Computer Vision · OpenCV · Hugging Face
-
-### ⚙️ MLOps & DevOps
-Docker · Kubernetes · MLflow · GitHub Actions · Jenkins · Apache Airflow · Git
-
-### 🔁 Streaming & Messaging
-Apache Kafka · Azure Event Hubs (Kafka-compatible) · RabbitMQ
-
-### ☁️ Cloud & Data
-Azure · AWS · PostgreSQL · MySQL · MongoDB · Power BI
-
----
-
-## 📜 Certifications
-
-- 🟦 **Microsoft Certified:** Azure AI Fundamentals (AI-900)
-- 🔴 **Apache Kafka Basics:** Confluent Training
-- 🔵 **IBM:** Machine Learning with Python
-- 🟡 **IBM:** Python for Data Science
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=biliyajanardhan&show_icons=true&theme=radical" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biliyajanardhan&layout=compact&theme=radical" 
-    width="48%" 
-  />
+<p>
+Specialized in <b>scalable MLOps pipelines</b>, <b>CI/CD automation</b>, and
+<b>cloud-native AI deployments</b> across <b>Kubernetes, Azure, and AWS</b>.
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=biliyajanardhan&theme=radical" 
-    width="60%" 
-  />
+<p>
+Passionate about building <b>reliable, observable, and high-performance AI systems</b>
+that drive <b>measurable business outcomes</b>.
 </p>
 
+<br>
 
----
-## 📬 Let’s Connect
+<img src="https://img.shields.io/badge/Generative_AI-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOps-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real_Time_ML-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Azure_AI-black?style=flat-square"/>
 
-- 💼 **LinkedIn** → https://www.linkedin.com/in/b-janardhana-biliya-740507225/
-- 🌐 **Portfolio** → https://janardhana-portfolio-fabzakf5ergueqhn.southindia-01.azurewebsites.net/
+</td>
 
+<td width="35%" style="border:2px solid #30363d;border-radius:10px;padding:20px;" align="center">
+
+<img src="https://raw.githubusercontent.com/biliyajanardhan/portfolio/main/src/assets/logo.png" width="580" height="580"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= ABOUT ME ================= -->
+
+<table width="100%">
+<tr>
+<td style="padding:25px;font-size:18px">
+
+<h2 align="center">About Me</h2>
+
+I'm <b>B. Janardhana Biliya</b>, an <b>AI/ML & MLOps Engineer</b> focused on building production-ready machine learning systems.
+
+With <b>2+ years of hands-on experience</b>, I design scalable ML pipelines, automate CI/CD workflows, and deploy cloud-native AI applications across Kubernetes, Azure, and AWS.
+
+I am passionate about transforming machine learning models into <b>robust, observable, and high-impact AI products</b> that deliver real-world business value.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ================= 3 HORIZONTAL CARDS ================= -->
+
+<table width="100%">
+<tr>
+
+<td width="33%" style="border:1px solid #30363d;border-radius:10px;padding:20px;vertical-align:top">
+
+<h3>⚙ Production AI Systems</h3>
+
+Designing and deploying reliable ML systems that perform confidently in live production environments.
+
+</td>
+
+<td width="33%" style="border:1px solid #30363d;border-radius:10px;padding:20px;vertical-align:top">
+
+<h3>☁ Cloud & DevOps Engineering</h3>
+
+CI/CD automation, containerization, Kubernetes orchestration, and scalable AI deployments.
+
+</td>
+
+<td width="33%" style="border:1px solid #30363d;border-radius:10px;padding:20px;vertical-align:top">
+
+<h3>📊 Business-Driven AI</h3>
+
+Building AI systems aligned with measurable business outcomes and long-term scalability.
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
+<!-- ================= WHAT I DO ================= -->
+
+<h1 align="center">🚀 What I Do</h1>
 
 <p align="center">
-<strong>💡 “I build systems that think, learn, and scale.”</strong>
+Engineering scalable AI infrastructure with automation, reliability, and business impact.
 </p>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="33%" style="border:1px solid #30363d;border-radius:10px;padding:25px;vertical-align:top">
+
+<h3>🧠 End-to-End ML Engineering</h3>
+
+Designing, training, validating, and deploying production-grade machine learning systems that solve real-world business problems.
+
+</td>
+
+<td width="33%" style="border:1px solid #30363d;border-radius:10px;padding:25px;vertical-align:top">
+
+<h3>⚙️ MLOps & CI/CD Automation</h3>
+
+Building scalable MLOps pipelines with experiment tracking, model versioning, containerization, and automated CI/CD workflows.
+
+</td>
+
+<td width="33%" style="border:1px solid #30363d;border-radius:10px;padding:25px;vertical-align:top">
+
+<h3>☁️ Cloud & Kubernetes Deployment</h3>
+
+Deploying secure, high-availability AI services across Kubernetes clusters and cloud platforms like Azure and AWS.
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
+<!-- ================= SKILLS & TECHNOLOGIES ================= -->
+
+<!-- ================= SKILLS & TECHNOLOGIES ================= -->
+
+<h1 align="center">⚡ Skills & Technologies</h1>
+
+<br>
+
+<table width="100%" style="table-layout:fixed;">
+<tr>
+
+<!-- Programming -->
+
+<td width="33%" style="border:1px solid #30363d;padding:25px;vertical-align:top">
+
+<h3>💻 Programming</h3>
+
+<table width="100%">
+<tr>
+<td>🐍 Python</td>
+<td>🐘 PHP</td>
+</tr>
+
+<tr>
+<td>⚛ React</td>
+<td>🗄 SQL</td>
+</tr>
+</table>
+
+</td>
+
+<!-- ML & AI -->
+
+<td width="33%" style="border:1px solid #30363d;padding:25px;vertical-align:top">
+
+<h3>🧠 ML & AI</h3>
+
+<table width="100%">
+<tr>
+<td>🔥 TensorFlow</td>
+<td>⚡ PyTorch</td>
+</tr>
+
+<tr>
+<td>👁 OpenCV</td>
+<td>🗣 NLP</td>
+</tr>
+</table>
+
+</td>
+
+<!-- MLOps -->
+
+<td width="33%" style="border:1px solid #30363d;padding:25px;vertical-align:top">
+
+<h3>⚙️ MLOps & DevOps</h3>
+
+<table width="100%">
+<tr>
+<td>🐳 Docker</td>
+<td>☸ Kubernetes</td>
+</tr>
+
+<tr>
+<td>⚡ GitHub Actions</td>
+<td>🔧 Jenkins</td>
+</tr>
+
+<tr>
+<td>🌬 Airflow</td>
+<td>🔀 Git</td>
+</tr>
+
+<tr>
+<td>📡 Kafka</td>
+<td>🐰 RabbitMQ</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- Cloud -->
+
+<td width="33%" style="border:1px solid #30363d;padding:25px;vertical-align:top">
+
+<h3>☁️ Cloud Platforms</h3>
+
+<table width="100%">
+<tr>
+<td>🔷 Azure</td>
+<td>🟠 AWS</td>
+</tr>
+</table>
+
+</td>
+
+<!-- Monitoring -->
+
+<td width="33%" style="border:1px solid #30363d;padding:25px;vertical-align:top">
+
+<h3>📊 Monitoring</h3>
+
+<table width="100%">
+<tr>
+<td>📈 Prometheus</td>
+<td>📉 Grafana</td>
+</tr>
+</table>
+
+</td>
+
+<!-- Databases -->
+
+<td width="33%" style="border:1px solid #30363d;padding:25px;vertical-align:top">
+
+<h3>🗄 Databases</h3>
+
+<table width="100%">
+<tr>
+<td>🐘 PostgreSQL</td>
+<td>🐬 MySQL</td>
+</tr>
+
+<tr>
+<td>🍃 MongoDB</td>
+<td></td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>

@@ -12,7 +12,7 @@
 <h3>Building Production-Grade AI Systems for Real-World Impact</h3>
 
 <p>
-An <b>AI/ML & MLOps Engineer</b> with <b>2+ years of hands-on experience</b> designing,
+An <b>AI/ML & MLOps Engineer</b> with <b>5+ years of hands-on experience</b> designing,
 deploying, and scaling intelligent systems in <b>production environments</b>.
 </p>
 
